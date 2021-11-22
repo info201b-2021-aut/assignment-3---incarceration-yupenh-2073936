@@ -3,4 +3,4 @@ In this assignment, you'll create the necessary files to perform the analysis de
 
 Once you have completed your report, make sure to **change your repository settings** so that you can view the hosted website (which will be available at https://ORGANIZATION_NAME.github.io/REPO_NAME)
 
-This is my website file:///Users/hugohou/Desktop/INFO201/assignment-3---incarceration-yupenh-2073936/Report.htm
+This is my website file:///Users/hugohou/Desktop/INFO201/assignment-3---incarceration-yupenh-2073936/Report.html
